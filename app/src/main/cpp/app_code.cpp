@@ -5,11 +5,7 @@
 #include <jni.h>
 #include <string>
 #include <iostream>
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <fcntl.h>
-#include <stdio.h>
-#include <time.h>
+
 
 
 extern "C" JNIEXPORT jstring JNICALL
